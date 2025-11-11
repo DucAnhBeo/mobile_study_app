@@ -1,0 +1,75 @@
+{
+  "pdf_url": "https://raw.githubusercontent.com/danghaido/Dang/main/CD/CD6.pdf",
+  "chapters": [
+    {
+      "title": "CHƯƠNG I – MỞ ĐẦU VỀ KHOA HỌC TỰ NHIÊN",
+      "lessons": [
+        { "title": "Bài 1. Giới thiệu về Khoa học tự nhiên", "page": 4, "summarize": "bai_1.html" },
+        { "title": "Bài 2. An toàn trong phòng thực hành", "page": 12, "summarize": "bai_2.html" },
+        { "title": "Bài 3. Đo chiều dài, khối lượng, thời gian", "page": 19, "summarize": "bai_3.html" },
+        { "title": "Bài 4. Đo nhiệt độ", "page": 26, "summarize": "bai_4.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG II – CHẤT VÀ SỰ BIẾN ĐỔI CỦA CHẤT",
+      "lessons": [
+        { "title": "Bài 5. Sự đa dạng của chất", "page": 30, "summarize": "bai_5.html" },
+        { "title": "Bài 6. Tính chất và sự chuyển thể của chất", "page": 33, "summarize": "bai_6.html" },
+        { "title": "Bài 7. Oxygen. Không khí", "page": 37, "summarize": "bai_7.html" },
+        { "title": "Bài 8. Một số vật liệu, nhiên liệu và nguyên liệu thông dụng", "page": 44, "summarize": "bai_8.html" },
+        { "title": "Bài 9. Một số lương thực, thực phẩm", "page": 52, "summarize": "bai_9.html" },
+        { "title": "Bài 10. Hỗn hợp, chất tinh khiết, dung dịch", "page": 55, "summarize": "bai_10.html" },
+        { "title": "Bài 11. Tách chất ra khỏi hỗn hợp", "page": 61, "summarize": "bai_11.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG III – TẾ BÀO",
+      "lessons": [
+        { "title": "Bài 12. Tế bào – đơn vị cơ sở của sự sống", "page": 66, "summarize": "bai_12.html" },
+        { "title": "Bài 13. Từ tế bào đến cơ thể", "page": 76, "summarize": "bai_13.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG IV – ĐA DẠNG THẾ GIỚI SỐNG",
+      "lessons": [
+        { "title": "Bài 14. Phân loại thế giới sống", "page": 84, "summarize": "bai_14.html" },
+        { "title": "Bài 15. Khoá lưỡng phân", "page": 89, "summarize": "bai_15.html" },
+        { "title": "Bài 16. Virus và vi khuẩn", "page": 92, "summarize": "bai_16.html" },
+        { "title": "Bài 17. Đa dạng nguyên sinh vật", "page": 99, "summarize": "bai_17.html" },
+        { "title": "Bài 18. Đa dạng nấm", "page": 103, "summarize": "bai_18.html" },
+        { "title": "Bài 19. Đa dạng thực vật", "page": 106, "summarize": "bai_19.html" },
+        { "title": "Bài 20. Vai trò của thực vật trong đời sống và trong tự nhiên", "page": 111, "summarize": "bai_20.html" },
+        { "title": "Bài 21. Thực hành: Phân chia các nhóm thực vật", "page": 118, "summarize": "bai_21.html" },
+        { "title": "Bài 22. Đa dạng động vật không xương sống", "page": 120, "summarize": "bai_22.html" },
+        { "title": "Bài 23. Đa dạng động vật có xương sống", "page": 125, "summarize": "bai_23.html" },
+        { "title": "Bài 24. Đa dạng sinh học", "page": 131, "summarize": "bai_24.html" },
+        { "title": "Bài 25. Tìm hiểu sinh vật ngoài thiên nhiên", "page": 134, "summarize": "bai_25.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG V – LỰC",
+      "lessons": [
+        { "title": "Bài 26. Lực và tác dụng của lực", "page": 137, "summarize": "bai_26.html" },
+        { "title": "Bài 27. Lực tiếp xúc và lực không tiếp xúc", "page": 140, "summarize": "bai_27.html" },
+        { "title": "Bài 28. Lực ma sát", "page": 142, "summarize": "bai_28.html" },
+        { "title": "Bài 29. Lực hấp dẫn", "page": 149, "summarize": "bai_29.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG VI – NĂNG LƯỢNG",
+      "lessons": [
+        { "title": "Bài 30. Các dạng năng lượng", "page": 153, "summarize": "bai_30.html" },
+        { "title": "Bài 31. Sự chuyển hoá năng lượng", "page": 158, "summarize": "bai_31.html" },
+        { "title": "Bài 32. Nhiên liệu và năng lượng tái tạo", "page": 162, "summarize": "bai_32.html" }
+      ]
+    },
+    {
+      "title": "CHƯƠNG VII – TRÁI ĐẤT VÀ BẦU TRỜI",
+      "lessons": [
+        { "title": "Bài 33. Hiện tượng mọc và lặn của Mặt Trời", "page": 165, "summarize": "bai_33.html" },
+        { "title": "Bài 34. Các hình dạng nhìn thấy của Mặt Trăng", "page": 167, "summarize": "bai_34.html" },
+        { "title": "Bài 35. Hệ Mặt Trời và Ngân Hà", "page": 170, "summarize": "bai_35.html" }
+      ]
+    }
+  ]
+}
